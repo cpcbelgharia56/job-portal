@@ -1,4 +1,4 @@
-export const server = "http://localhost:4444";
+export const server = "https://job-portal-backend-pt80.onrender.com"
 //export const server = "https://secret-shelf-87665.herokuapp.com";
 
 const apiList = {
